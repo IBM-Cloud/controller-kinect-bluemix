@@ -1,0 +1,20 @@
+Controller to connect Kinect with Bluemix
+https://github.com/IBM-Bluemix/controller-kinect-bluemix
+Copyright IBM Corp. 2016
+
+
+libfreenect
+https://github.com/OpenKinect/libfreenect
+ALv2: https://github.com/OpenKinect/libfreenect/blob/master/APACHE20
+
+BoofCV
+https://github.com/lessthanoptimal/BoofCV
+ALv2: https://github.com/lessthanoptimal/BoofCV/blob/master/LICENSE-2.0.txt
+
+Eclipse Paho
+https://projects.eclipse.org/projects/technology.paho
+EPL: https://projects.eclipse.org/content/eclipse-public-license-1.0
+
+JUnit
+https://github.com/junit-team/junit
+EPL: https://github.com/junit-team/junit/blob/master/LICENSE-junit.txt
